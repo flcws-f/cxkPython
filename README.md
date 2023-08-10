@@ -1,5 +1,5 @@
 # cxkPython
-Python做的蔡徐坤打篮球，请将字体大小调到4x8pixels，并且窗口为横向，终端支持ANSI转义序列。   
+Python做的蔡徐坤打篮球，请将字体大小调到最小，并且窗口为横向，终端支持ANSI转义序列。   
 如果没有安装Pillow库，请使用以下命令安装：
 ```bash
 pip install pillow
